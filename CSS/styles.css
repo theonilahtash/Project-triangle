@@ -1,0 +1,28 @@
+* {
+   background-color: green;
+      color: red;
+   font-size: 50px;
+   text-align:center;
+   #check {
+ color: red;
+ font-weight: bold;
+ font-size: 100px;
+ text-align: center;
+}
+#get_triangle {
+ text-align: center;
+ font-size: 150px;
+ font-weight: bold;
+ color: solid black;
+}
+triangle_tracker{
+ font-size: 150px;
+ color:red ;
+ text-align: center;
+}
+#click here {
+ width: 260px;
+ color: white;
+ font-size: 50px;
+ text-align: center;
+}
