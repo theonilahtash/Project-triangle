@@ -9,6 +9,8 @@ body {
 }
 
 p{
+  color:yellow;
+  text-align: left;
   font-size:1.7em
 }
 .transbox {
