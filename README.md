@@ -24,4 +24,4 @@ NOT a triangle: The sum of the lengths of any two sides of a triangle is less th
 ## License
 MIT
 
-Copyright (c)Copyright {2018} **{Theonilah Owali Project-triangle
+Copyright (c)Copyright {2018} **{Theonilah Owali Project-triangle}
