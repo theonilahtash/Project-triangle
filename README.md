@@ -15,7 +15,7 @@ If No sides are equal: Scalene will pop up;
 NOT a triangle: The sum of the lengths of any two sides of a triangle is less than or equal to the length of the third side.}
 
 
-## Technologies Used
+### Technologies Used
 {I used HTML and CSS/STYLES,JAVASCRIPT, TERMINAL AND ATOM.}
 
 ## Support and contact details
