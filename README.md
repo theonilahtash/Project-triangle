@@ -3,7 +3,7 @@
 #### {this is a Triangle Tracker},{15th September 2018}
 
 #  Authors name
-####By Theonilah Owali
+#### By Theonilah Owali
 
 ##  Description
 {Triangle Tracker allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all. .}
