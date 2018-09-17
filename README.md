@@ -18,10 +18,10 @@ NOT a triangle: The sum of the lengths of any two sides of a triangle is less th
 ### Technologies Used
 {I used HTML and CSS/STYLES,JAVASCRIPT, TERMINAL AND ATOM.}
 
-## Support and contact details
+### Support and contact details
 { Any issues or questions, ideas or concerns,or a contribution to the code. feel free to contact me through my email address; theonilahtash@gmail.com}
 
-## License
+### License
 MIT
 
 Copyright (c)Copyright {2018} **{Theonilah Owali Project-triangle}
