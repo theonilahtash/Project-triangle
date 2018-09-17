@@ -8,6 +8,11 @@
 ##  Description
 {Triangle Tracker allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all. .}
 
+##  How to install
+####  Go to my Github page then use the link above, insert value in it and know how a triangle is formed.
+####  https://github.com/theonilahtash/Project-triangle/edit/gh-pages/README.md
+
+
 ###  Behavior Driven Development
 IF all sides are equal: Equilateral will pop up;
 If Exactly 2 sides are equal: Isosceles will pop up;
