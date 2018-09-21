@@ -1,30 +1,30 @@
 function triangle(){
 
-	var A = parseFloat(document.getElementById('sideOne').value);
-	var B = parseFloat(document.getElementById('sideTwo').value);
-	var C = parseFloat(document.getElementById('sideThree').value);
+	var sideOne = parseFloat(document.getElementById('sideOne').value);
+	var sideTwo = parseFloat(document.getElementById('sideTwo').value);
+	var sideThree = parseFloat(document.getElementById('sideThree').value);
 
 
-	var AB = A + B;
-	var AC = A + C;
-	var BC = B + C;
+	var sideOne&Two = sideOne + sideTwo;
+	var sideOne&Three = sideOne + sideThree;
+	var sideTwo&Three = sideTwo + sideThree;
 
 
-	 if ((AB < C) || (AC < B) || (BC < A)) {
-		 alert("There is no triangle formed");
+	 if ((sideOne&Two < sideThree) || (sideOne&Three < sideTwo) || (sideTwo&Three < sideOne)) {
+		 alert("not a triangle");
 	}
-	else if(A === B && B === C){
-		alert("You have an equilateral triangle");
+	else if(sideOne=== sideTwo && sideTwo === sideThree){
+		alert( "an equilateral triangle");
 	}
 
-	else if(A === B || B === C || A===C){
-		alert("You have an isosceles triangle");
+	else if(sideOne === sideTwo || sideTwo === sideThree || sideOne===sideThree){
+		alert(" an isosceles triangle");
 	}
-	else if((AB > C) || (AC > B) || (BC > A)){
-		alert("Scalene triangle formed");
+	else if((sideOne&Two > sideThree) || (sideOne&Three > sideTwo) || (sideTwo&Three > sideOne)){
+		alert("Scalene triangle ");
 	}
 	else {
-		alert("try again");
+		alert("no values inserted");
 	}
 }
 var displayWord = function(words){
